@@ -1,5 +1,5 @@
 def square_array(array)
-  array = ["Copenhagen", "Berlin", "Venice", "Zurich"]
+  array = [2, 3, 4, 5, 6]
   array.each
   # your code here
 end
