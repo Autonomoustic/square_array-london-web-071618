@@ -1,7 +1,7 @@
 def square_array(array)
-  array = [1, 2, 3, 4, 5]
-  array.each do |number|
-    puts "square #{number}"
+  array = [1, 2, 3]
+  array.self
   end
   # your code here
 end
+#puts "square #{number}"
